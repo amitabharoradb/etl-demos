@@ -1,0 +1,2 @@
+# How to Evaluate Delta Table Operational Health Using Delta Table History
+[Link to the blog](https://community.databricks.com/t5/technical-blog/how-to-evaluate-delta-table-operational-health-using-delta-table/ba-p/117114)
